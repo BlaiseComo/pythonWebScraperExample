@@ -1,6 +1,7 @@
-import bs4
 from bs4 import BeautifulSoup
 from urllib.request import urlopen as uReq
+
+##### !!!!! This code no longer works with the website or for some other reason so take caution when referencing it !!!!!! ######
 
 # You can also import request and use those methods to pull data from the internet
 
